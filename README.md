@@ -4,7 +4,7 @@
   You must have a working server to run the project. For example you can use XAMPP, which is a popular www server for PHP.
 
 2.Steps how to run scripts that will setup database for the project.
-  Run your database server. If you don't have one, use the xampp package. Import project_notes.sql file into your database.
+  Run your database server. If you don't have one, use the xampp package. Import project_notes.sql file into your database. If you need you can change a server name, username and password in the constructor of class Database in database.php file.
 
 3.Steps how to build and run the project.
   Download Notes.zip and extract the files to the appropriate folder of your server (e.g. if you use xampp then extract to htdocs folder). Import the project_notes.sql file into your database. Then run your server. Enter address serverName/Notes
