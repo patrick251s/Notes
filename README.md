@@ -13,4 +13,4 @@
   You can add your note by entering title, content and confirming. You have the option to edit the selected note. You can also delete your note. You can sort notes by a creation date, modification date, title or content. You have the additional option to view all your notes, including those deleted and modified
   <br />
   <br />
-<img src="https://user-images.githubusercontent.com/80048198/228218119-1225bf1b-1bcd-459b-bb6a-383644a5c825.jpg" width="3000" height="450">
+<img src="https://user-images.githubusercontent.com/80048198/228218119-1225bf1b-1bcd-459b-bb6a-383644a5c825.jpg" width="300" height="450">
